@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "project":
+    {
+      "key": "REST"
+    },
+    "summary": "Create bug for fun ",
+    "description": "Creating issue form PostMan",
+    "issuetype": {
+      "name": "Bug"
+    }
+  }
+}

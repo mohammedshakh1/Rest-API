@@ -1,0 +1,5 @@
+{
+  "update" : {
+    "components" : [{"add" : {"name" : "New Component 5"}}]
+  }
+}
